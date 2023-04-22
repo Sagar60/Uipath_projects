@@ -1,0 +1,7 @@
+excel application - 27 seconds
+workbook - 16 seconds
+Excel as DB - 2 seconds
+
+"Insert into [Sheet1$]  Select * From [Input$]  Where Name='Sagar'"
+
+"Insert into [Sheet1$]  Select Name,Age,Salary * @Increment,Department From [Input$]  Where Name='Sagar'"
